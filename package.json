@@ -1,0 +1,22 @@
+{
+  "name": "the-orders",
+  "version": "1.0.0",
+  "description": "some order",
+  "main": "app.js",
+  "scripts": {
+    "test": "ye"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iaristotleg18/order-repo.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iaristotleg18/order-repo/issues"
+  },
+  "homepage": "https://github.com/iaristotleg18/order-repo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
